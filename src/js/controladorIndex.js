@@ -5,4 +5,5 @@ if(true){
     let nombre="LUCHO DIAZ"
 }
 console.log(`hola ${nombre}`)
+console.log("hola")
 
